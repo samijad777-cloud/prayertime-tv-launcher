@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(gh repo view egyjs/afnon-android-tv-launcher)",
+      "WebFetch(domain:github.com)",
+      "PowerShell(git clone https://github.com/egyjs/afnon-android-tv-launcher .)",
+      "PowerShell(Move-Item -Destination \".\" -Force)",
+      "WebSearch",
+      "WebFetch(domain:mp3quran.net)",
+      "PowerShell(.\\\\gradlew.bat assembleDebug)"
+    ]
+  }
+}
